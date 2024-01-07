@@ -6,5 +6,8 @@
 * to do things 
 
 # left theme
+中间人
+虚拟世界
+决定论
 语义膨胀
-物质空间
+频率
