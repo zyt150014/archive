@@ -6,7 +6,6 @@
 * to do things 
 
 # left theme
-中心化
-中间人
 语义膨胀
 频率
+价值
