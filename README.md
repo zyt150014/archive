@@ -6,6 +6,7 @@
 * to do things 
 
 # left theme
+剩余价值
+资本积累
 语义膨胀
 频率
-价值
