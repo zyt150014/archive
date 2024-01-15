@@ -6,6 +6,5 @@
 * to do things 
 
 # left theme
-语义膨胀
 美化
 频率
