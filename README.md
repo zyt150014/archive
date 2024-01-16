@@ -6,6 +6,6 @@
 * to do things 
 
 # left theme
-美化
+注意力
 梦境
 频率
