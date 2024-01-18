@@ -6,7 +6,6 @@
 * to do things 
 
 # left theme
-注意力
 梦境
 个人需求
 频率
