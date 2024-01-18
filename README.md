@@ -6,6 +6,8 @@
 * to do things 
 
 # left theme
-梦境
-个人需求
+个人需求（层次）
 频率
+色彩
+图形
+音色
