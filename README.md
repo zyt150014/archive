@@ -6,6 +6,8 @@
 * to do things 
 
 # left theme
+权利
+自由
 频率
 色彩
 图形
