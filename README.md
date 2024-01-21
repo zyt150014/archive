@@ -6,8 +6,9 @@
 * to do things 
 
 # left theme
-权利
 自由
+道德
+科学
 频率
 色彩
 图形
