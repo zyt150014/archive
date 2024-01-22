@@ -6,7 +6,6 @@
 * to do things 
 
 # left theme
-自由
 道德
 科学
 频率
