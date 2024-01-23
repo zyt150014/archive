@@ -6,7 +6,7 @@
 * to do things 
 
 # left theme
-道德
+个人追求
 科学
 频率
 色彩
