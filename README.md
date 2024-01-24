@@ -6,8 +6,8 @@
 * to do things 
 
 # left theme
-个人追求
 科学
+信仰
 频率
 色彩
 图形
