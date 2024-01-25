@@ -6,7 +6,7 @@
 * to do things 
 
 # left theme
-科学
+哲学
 信仰
 频率
 色彩
