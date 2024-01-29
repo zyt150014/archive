@@ -6,8 +6,8 @@
 * to do things 
 
 # left theme
-神学
-信仰
+物质交换
+思维交流
 频率
 色彩
 图形
