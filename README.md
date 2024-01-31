@@ -6,8 +6,8 @@
 * to do things 
 
 # left theme
-物质交换
-思维交流
+自身
+阶级
 频率
 色彩
 图形
