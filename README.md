@@ -6,7 +6,6 @@
 * to do things 
 
 # left theme
-自身
 阶级
 频率
 色彩
