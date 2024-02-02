@@ -6,7 +6,6 @@
 * to do things 
 
 # left theme
-习得
 文学
 艺术
 经济
